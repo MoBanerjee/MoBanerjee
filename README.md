@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ML/DL related projects
 - 📫 How to reach me: mohorb04@gmail.com or MOHOR001@e.ntu.edu.sg
 - ⚡ I am really excited about my Quantum Computing learning repo-: https://github.com/MoBanerjee/QuantumComputing_and_Qiskit_Tutorial
+- 😄 Fun fact: I am sort of addicted to claw machines (yes, that's possible) and waste too much money on them sometimes ;)
