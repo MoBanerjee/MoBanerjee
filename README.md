@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on up-skilling myself in Machine Learning/ Deep Learning/ NLP/ GenAI
-- 🌱 I code in C, C++, Python, Java and Javascript. I am familiar with HTML5, CSS, Pandas/ NumPy/ Tensorflow.
+- 🌱 I code in C, C++, Python, Java and Javascript. I am familiar with HTML5, CSS, Tensorflow/ ScikitLearn, Pandas/ NumPy/ Matplotlib
 - 🤖 I am deeply interested in learning more about trends like Quantum Computing, Blockchain, DeFi and Web3.0
 - 👯 I’m looking to collaborate on ML/DL related projects
 - 📫 How to reach me: mohorb04@gmail.com or MOHOR001@e.ntu.edu.sg
