@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I code in C, C++, Python, Java and Javascript. I am familiar with HTML5, CSS, Tensorflow/ ScikitLearn, Pandas/ NumPy/ Matplotlib
 - 👯 I’m looking to collaborate on ML/DL related projects
 - 📫 How to reach me: mohorb04@gmail.com or MOHOR001@e.ntu.edu.sg
-- ⚡ I am really excited about my Quantum Computing learning repo-: https://github.com/MoBanerjee/QuantumComputing_and_Qiskit_Tutorial
 - 😄 Fun Fact: I love writing poetry!
