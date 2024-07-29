@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🌱 I code in C, C++, Python, Java and Javascript. I am familiar with HTML5, CSS, Tensorflow/ ScikitLearn, Pandas/ NumPy/ Matplotlib
 - 👯 I’m looking to collaborate on ML/DL related projects
 - 📫 How to reach me: mohorb04@gmail.com or MOHOR001@e.ntu.edu.sg
-- 😄 Fun Fact: I love writing poetry!
+- 😄 Fun Fact: i wish i was doraemon
 
 [![](https://visitcount.itsvg.in/api?id=MoBanerjee&label=Profile%20Views&color=6&icon=1&pretty=false)](https://visitcount.itsvg.in)
